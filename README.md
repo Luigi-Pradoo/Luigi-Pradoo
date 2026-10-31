@@ -7,7 +7,6 @@
 <a href="mailto:luigiprado012@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
 <a href="https://linkedin.com/in/luigi-prado-raimundo"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
 <a href="https://perceptra.solutions"><img src="https://img.shields.io/badge/Perceptra-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A78BFA"></a>
-<img src="https://komarev.com/ghpvc/?username=Luigi-Pradoo&style=for-the-badge&color=8B5CF6&label=VISITAS">
 
 </div>
 

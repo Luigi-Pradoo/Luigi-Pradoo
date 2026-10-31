@@ -1,162 +1,148 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D1117&height=200&section=header&text=Luigi%20Prado&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Engenharia%20de%20Telecomunica%C3%A7%C3%B5es%20%7C%20IA%20%26%20Vis%C3%A3o%20Computacional&descAlignY=54&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D1117&height=200&section=header&text=Luigi%20Prado&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Engenharia%20de%20Telecomunica%C3%A7%C3%B5es%20%40%20INATEL%20%7C%20IA%20%26%20Vis%C3%A3o%20Computacional&descAlignY=54&descSize=16"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=900&height=80&lines=Ol%C3%A1!+Eu+sou+Luigi+Prado;Estudante+de+Engenharia+de+Telecomunica%C3%A7%C3%B5es;IA+%7C+Machine+Learning+%7C+Deep+Learning;Vis%C3%A3o+Computacional+%7C+Sensoriamento+Remoto;Bem-vindo+ao+meu+perfil+no+GitHub!)](https://github.com/Luigi-Pradoo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=820&height=60&lines=Vis%C3%A3o+computacional+para+o+mundo+real;Segmenta%C3%A7%C3%A3o+de+imagens+SAR+%7C+INATEL+%C3%97+ITA;1%C2%BA+lugar+%E2%80%94+Hackathon+Construtech+Inatel;Instrutor+do+Curso+de+IA+do+b%C3%A1sico+ao+avan%C3%A7ado)](https://github.com/Luigi-Pradoo)
 
-<a href="mailto:luigiprado012@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117">
-</a>
-<a href="https://linkedin.com/in/luigi-prado-raimundo" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B5CF6&labelColor=0D1117">
-</a>
-<a href="https://github.com/Luigi-Pradoo?tab=repositories">
-  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0D1117">
-</a>
+<a href="mailto:luigiprado012@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
+<a href="https://linkedin.com/in/luigi-prado-raimundo"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"></a>
+<a href="https://perceptra.solutions"><img src="https://img.shields.io/badge/Perceptra-0D1117?style=for-the-badge&logo=googlechrome&logoColor=A78BFA"></a>
+<img src="https://komarev.com/ghpvc/?username=Luigi-Pradoo&style=for-the-badge&color=8B5CF6&label=VISITAS">
 
 </div>
 
 ---
 
-## Sobre mim
+### 👋 Sobre mim
 
-Estudante de **Engenharia de Telecomunicações** no **INATEL** — Instituto Nacional de Telecomunicações, em Santa Rita do Sapucaí.
+Estudante de **Engenharia de Telecomunicações** no **INATEL** (Santa Rita do Sapucaí – MG) e pesquisador nos Laboratórios de Telecom. Trabalho aplicando **Inteligência Artificial a problemas reais** — principalmente **visão computacional**, **segmentação semântica** e **sensoriamento remoto**.
 
-Este GitHub reúne meus estudos, projetos acadêmicos, pesquisas e experimentos desenvolvidos ao longo da graduação. Meu objetivo é aplicar Inteligência Artificial para resolver problemas reais, usando técnicas modernas de **Machine Learning**, **Deep Learning** e **Visão Computacional**.
-
-Tenho interesse especial em processamento de imagens, sensoriamento remoto, segmentação semântica e modelos generativos.
+```python
+luigi = {
+    "formação":   "Engenharia de Telecomunicações @ INATEL",
+    "pesquisa":   "Segmentação de pistas clandestinas em imagens SAR (INATEL × ITA)",
+    "ensino":     "Instrutor do Curso de IA — do NumPy ao Deep Learning",
+    "segurança":  "CTFs com a CSteam do INATEL (reversing, crypto, mobile)",
+    "explorando": ["SAM / SAM 2", "modelos de difusão (DDPM)", "segurança de LLMs"],
+}
+```
 
 ---
 
-## Áreas de interesse
+### 🏆 Destaques
 
-| | | |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🥇 Perceptra — 1º lugar
+**4º Hackathon Construtech do Inatel** (maratona de 36h)
+
+Plataforma que une **câmeras + visão computacional + edge computing** para monitorar canteiros de obras: EPIs, intrusões, trincas e conformidade. A IA recomenda, o engenheiro decide.
+
+[![Repo](https://img.shields.io/badge/Front--end-Perceptra--Solutions-8B5CF6?style=flat-square&logo=github)](https://github.com/Perceptra-Solutions/Front-end)
+[![Site](https://img.shields.io/badge/site-perceptra.solutions-A78BFA?style=flat-square)](https://perceptra.solutions)
+
+`React` `TypeScript` `Tailwind` `three.js` `YOLO`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛰️ Pistas clandestinas em imagens SAR
+**Iniciação científica — parceria INATEL × ITA**
+
+Detecção e segmentação de pistas de pouso clandestinas na Amazônia a partir de imagens **Sentinel-1 (SAR)**. Pipeline com **SAM / SAM 2**, **YOLOv8-seg/OBB**, **U-Net**, busca de hiperparâmetros com **Optuna** e geração de dados sintéticos com **DDPM**.
+
+`PyTorch` `AutoGluon` `SAM` `Optuna` `Albumentations`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 Curso de IA — do básico ao avançado
+Material completo que uso para ministrar aulas diárias a uma turma iniciante: Python, EDA, pipelines do scikit-learn e **algoritmos de ML implementados do zero com NumPy** (regressão, gradiente descendente, KNN, Naive Bayes, árvores, PCA, SVM).
+
+[![Repo](https://img.shields.io/badge/repo-Curso--de--IA-8B5CF6?style=flat-square&logo=github)](https://github.com/Luigi-Pradoo/Curso-de-IA-Basico-ao-Avancado)
+
+`Python` `NumPy` `pandas` `scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🗣️ AiTutor
+**PWA de tutor de idiomas com IA** (FETIN 2026): quizzes, vocabulário e conversação gerados sob medida pelo **Gemini**, com prática por voz e acompanhamento de progresso.
+
+[![Repo](https://img.shields.io/badge/repo-AiTutor-8B5CF6?style=flat-square&logo=github)](https://github.com/Luigi-Pradoo/AiTutor)
+
+`React` `Vite` `PWA` `Gemini API`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧩 Outros projetos
+
+| Projeto | O que é | Stack |
 |---|---|---|
-| Inteligência Artificial | Visão Computacional | Imagens SAR |
-| Machine Learning | Processamento Digital de Imagens | Segmentação Semântica |
-| Deep Learning | Sensoriamento Remoto | Modelos Generativos |
+| [**PC Mania**](https://github.com/Luigi-Pradoo/PCMania) | Sistema de compras de uma loja de computadores — POO em Java com UML, herança, composição e agregação | `Java` |
+| [**Luva Inteligente**](https://github.com/Luigi-Pradoo/Fetin-auxilio) | Luva com estímulo vibrotátil para auxílio no controle de tremores + painel web (FETIN 2026) | `ESP32` `Angular` `Firebase` |
+| **Vision Health** | Retinógrafo acoplável ao smartphone com lente asférica 20D (FETIN 2026) | `Hardware` `Óptica` |
+| [**POO em Java (C06)**](https://github.com/Luigi-Pradoo/Programa-o-Orientada-Objeto-Java---C06-) | Exercícios da disciplina de Programação Orientada a Objetos | `Java` |
+| **Sistemas Microcontrolados** | Projetos bare-metal no ATmega328P (registradores, interrupções, timers) | `C` `AVR` |
 
 ---
 
-## Tecnologias
+### 🛠️ Stack
 
 <div align="center">
 
-**Linguagens**
+**IA & Dados**<br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark" /><br>
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=4DABCF)
+![Pandas](https://img.shields.io/badge/pandas-0D1117?style=flat-square&logo=pandas&logoColor=E70488)
+![YOLO](https://img.shields.io/badge/YOLO-0D1117?style=flat-square&logo=yolo&logoColor=00FFFF)
+![Roboflow](https://img.shields.io/badge/Roboflow-0D1117?style=flat-square&logo=roboflow&logoColor=A78BFA)
+![Colab](https://img.shields.io/badge/Colab-0D1117?style=flat-square&logo=googlecolab&logoColor=F9AB00)
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0D1117)
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC&labelColor=0D1117)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
+**Linguagens, Web & Embarcados**<br>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,react,angular,tailwind,arduino&theme=dark" />
 
-**Inteligência Artificial e dados**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0D1117)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0D1117)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF&labelColor=0D1117)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=E70488&labelColor=0D1117)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0D1117)
-
-**Ferramentas e plataformas**
-
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)
-![Colab](https://img.shields.io/badge/Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=F9AB00&labelColor=0D1117)
-![Arduino](https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=0D1117)
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,pytorch,tensorflow,opencv,git,github,vscode,linux&theme=dark" alt="Stack" />
-
-</div>
-
-**Bibliotecas e modelos:** Matplotlib · Scikit-Learn · YOLO · Segment Anything Model (SAM) · Modelos de difusão (DDPM)
-
----
-
-## Projetos
-
-| Projeto | Descrição |
-|---|---|
-| **HandPulse** | Luva inteligente para reconhecimento de movimentos e monitoramento em tempo real — sistemas embarcados e sensores inerciais (FETIN). |
-| **AiTutor** | Tutor baseado em Inteligência Artificial (FETIN 2026). |
-| **Estudos de IA** | Notebooks e cursos de Machine Learning, Deep Learning e Visão Computacional. |
-| **POO em Java** | Atividades da disciplina de Programação Orientada a Objetos. |
-
-Também desenvolvo projetos de IA aplicada a **imagens de satélite**, **segmentação semântica**, **processamento de imagens SAR** e **modelos de difusão**, além da preparação e treinamento de datasets para Visão Computacional.
-
----
-
-## Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luigi-Pradoo&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" alt="Estatísticas do GitHub" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luigi-Pradoo&layout=compact&hide_border=true&title_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="Linguagens mais usadas" />
-
-<!-- Instancia oficial (github-readme-stats.vercel.app) estava em 503; usando espelho. Para voltar, troque "github-readme-stats-sigma-five" por "github-readme-stats" nas duas linhas acima. -->
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Luigi-Pradoo&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=8B5CF6&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
+**Ferramentas**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex,firebase,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## Resumo do perfil
+### 📊 Atividade
 
 <div align="center">
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luigi-Pradoo&theme=dracula" alt="Resumo do perfil" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luigi-Pradoo&show_icons=true&count_private=true&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="Estatísticas" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luigi-Pradoo&layout=compact&hide_border=true&title_color=A78BFA&text_color=C9D1D9&bg_color=0D1117" alt="Linguagens" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luigi-Pradoo&theme=dracula" alt="Repositórios por linguagem" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luigi-Pradoo&theme=dracula" alt="Linguagens mais commitadas" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luigi-Pradoo&theme=dracula" alt="Estatísticas gerais" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luigi-Pradoo&theme=dracula&utcOffset=-3" alt="Horários mais produtivos" />
+<img src="https://streak-stats.demolab.com?user=Luigi-Pradoo&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakNum=C9D1D9&currStreakLabel=A78BFA&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="Sequência de contribuições" />
 
 </div>
 
-<!--
-  Os dois blocos abaixo (grafico de atividade animado e trofeus) usam servicos
-  hospedados na Vercel que estavam fora do ar (erro 402). Quando voltarem,
-  basta remover estes comentarios para reativa-los.
-
-  [![Grafico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=Luigi-Pradoo&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true)](https://github.com/Luigi-Pradoo)
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Luigi-Pradoo&theme=dracula&row=1&column=6&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="Trofeus do GitHub" />
--->
-
 ---
 
-## Estudando e objetivos
+### 🔭 Agora
 
-| Atualmente estudando | Objetivos |
-|---|---|
-| Arquiteturas modernas de Deep Learning | Aprimorar conhecimentos em Inteligência Artificial |
-| Segmentação semântica | Desenvolver projetos de pesquisa e inovação |
-| Modelos fundamentais para Visão Computacional | Compartilhar estudos e projetos de código aberto |
-| Processamento de imagens SAR | Evoluir como engenheiro e pesquisador |
-| Modelos de difusão e IA para sensoriamento remoto | |
-
----
-
-## Contato
-
-**Email:** luigiprado012@gmail.com
-
-**LinkedIn:** [luigi-prado-raimundo](https://linkedin.com/in/luigi-prado-raimundo)
+- 🛰️ Fechando experimentos da IC de segmentação SAR e escrevendo o artigo (IEEE)
+- 📝 Escrevendo o artigo técnico do **Perceptra**
+- 👨‍🏫 Ministrando o Curso de IA — módulo de *Machine Learning na mão, com NumPy*
+- 🔐 Estudando **vulnerabilidades em LLMs** como tema de mestrado
 
 <div align="center">
 
 <br>
 
-*"Aprendendo, pesquisando e desenvolvendo soluções através da Inteligência Artificial."*
+**Bora conversar sobre visão computacional, SAR ou IA aplicada?** → [luigiprado012@gmail.com](mailto:luigiprado012@gmail.com)
 
 </div>
 
